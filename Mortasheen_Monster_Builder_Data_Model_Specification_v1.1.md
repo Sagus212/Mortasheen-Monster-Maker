@@ -2,7 +2,7 @@
 
 ## Data Model Specification
 
-Version 1.0
+Version 1.1
 
 > Canonical data model specification for the Mortasheen Monster Builder.
 
