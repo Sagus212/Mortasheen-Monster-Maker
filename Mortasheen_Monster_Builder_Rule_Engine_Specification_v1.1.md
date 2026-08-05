@@ -2,7 +2,7 @@
 
 # Rule Engine Specification
 
-Version 1.0
+Version 1.1
 
 > Canonical rule evaluation specification for the Mortasheen Monster Builder.
 
